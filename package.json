@@ -1,0 +1,27 @@
+{
+  "name": "storepai",
+  "version": "1.0.0",
+  "description": "storeapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "Js",
+    "Ts",
+    "backend",
+    "mongoDB",
+    "Node",
+    "Express"
+  ],
+  "author": "Mehul pandya",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-async-errors": "^3.1.1",
+    "mongoose": "^8.5.1",
+    "nodemon": "^3.1.4"
+  }
+}
